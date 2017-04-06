@@ -1,0 +1,1 @@
+- 查看当前zk server端状态:echo stat|nc IP port。其中IP为server的IP地址，port为zk server和client通信的端口。
